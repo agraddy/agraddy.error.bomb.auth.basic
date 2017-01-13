@@ -21,7 +21,7 @@ function start() {
 		custom();
 	});
 
-	error.bomb(res);
+	error.bomb(null, {}, res, {});
 
 }
 
@@ -40,7 +40,7 @@ function custom() {
 		end();
 	});
 
-	error.bomb(res);
+	error.bomb(null, {}, res, {});
 }
 
 function end() {
