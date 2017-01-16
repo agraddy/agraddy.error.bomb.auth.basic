@@ -17,7 +17,7 @@
     "url": "https://github.com/agraddy/agraddy.error.bomb.auth.basic/issues"
   },
   "devDependencies": {
-    "agraddy.test.res": "^0.5.0",
+    "agraddy.test.res": "^0.6.0",
     "agraddy.test.tap": "^0.3.0"
   }
 }
